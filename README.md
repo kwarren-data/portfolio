@@ -1,3 +1,3 @@
-# Ken Warren's Example Project Portfolio
+# Ken Warren's Project Portfolio
 
-This portfolio will hold some example data analysis and python programming projects. 
+This portfolio holds some example data analysis and python programming projects. 
