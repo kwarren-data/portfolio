@@ -1,3 +1,3 @@
 # Ken Warren's Project Portfolio
 
-This portfolio holds some example data analysis and python programming projects. 
+This portfolio contains sample data analysis projects using Python as Jupyter Notebook files.
