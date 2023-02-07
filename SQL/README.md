@@ -14,12 +14,12 @@ This data contains three separate files with information regarding aliens in Ame
 **SQL Functions Used**
 
 Here is a list of SQL functions & techniques used:
-GROUP BY & aggregate functions (COUNT, SUM, etc.)<br/>
-ORDER BY
-HAVING
-CASE WHEN
-JOIN
-EXTRACT
-Subqueries & Common Table Expressions
-CREATE TABLE
-UPDATE TABLE
+* GROUP BY & aggregate functions (COUNT, SUM, etc.)
+* ORDER BY
+* HAVING
+* CASE WHEN
+* JOIN
+* EXTRACT
+* Subqueries & Common Table Expressions
+* CREATE TABLE
+* UPDATE TABLE
