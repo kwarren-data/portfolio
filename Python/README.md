@@ -6,4 +6,4 @@ The Python files, in Jupyter Notebook format, are based on the Global Shark Atta
 
 The first project, named "gsaf_analysis_v2.ipynb", contains the code and markdown for an exploratory data analysis of worldwide shark attacks. The second project, named "gsaf_florida_v2.ipynb", is a follow-on to the data analysis of worldwide shark attacks. This second project explores the GSAF with a focus on shark attacks occurring in Florida, USA.
 
-These projects required importing raw data, cleaning the data, performing some exploratory data analysis, and creating some visualiztions. 
+These projects required importing raw data, cleaning the data, performing some exploratory data analysis, and creating some visualizations. 
