@@ -7,6 +7,8 @@ This dataset contains sales, product (automobiles & scooters), and other informa
 
 **Excel Functions & Formulas Used**
 * Pivot Tables
+* Power Pivot
+* Pivot Charts
 * SUMIFS
 * COUNTIFS
 * XLOOKUP
