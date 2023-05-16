@@ -2,7 +2,7 @@
 
 **Vehicle Sales**
 
-One PostgreSQL project utilized the fictional car company database provided by the book, "SQL for Data Analytics" by Upom Malik, Matt Goldwasser, and Benjamin Johnston. This project explored the database to learn more about it, as well as trying to answer a few questions on how the vehicle sales have been changing over time. This project file is named **vehicle_sales_v1.sql**. 
+One PostgreSQL project utilized the fictional car company database provided by the book, "SQL for Data Analytics" by Upom Malik, Matt Goldwasser, and Benjamin Johnston. This project explored the database to learn more about it, as well as trying to answer a few questions on how the vehicle sales had changed over time. This project file is named **vehicle_sales_v1.sql**. 
 
 **Aliens In America**
 
